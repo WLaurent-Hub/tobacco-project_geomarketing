@@ -12,6 +12,18 @@ Four main aspects of the methodology are automatic:
   - Distance calculation 
   - Gathering of all .xls data in a single Excel table
 
+Process source code is available in the module folder
+
+<pre>
+📦tobacco-project_geomarketing
+ ┣ 📂module
+ ┃ ┣ 📜dataconvert.py
+ ┃ ┣ 📜geocoder.py
+ ┃ ┣ 📜geodatabase.py
+ ┃ ┣ 📜geoprocessing.py
+ ┃ ┗ 📜__init__.py
+</pre>
+
 ## Data
 
 The data are located in the directory data :
@@ -39,8 +51,6 @@ The data are located in the directory data :
 ### Runtime
 
 The project is based on the python version : **v3.9.10**
-
-Available in `runtime.txt`
 
 ### Dependencies 
 
