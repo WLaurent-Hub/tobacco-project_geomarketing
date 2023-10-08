@@ -1,4 +1,4 @@
-# automatisation-tabac-arcpy
+# tobacco-project_geomarketing
 
 ## Presentation
 
@@ -56,7 +56,7 @@ The project is based on the python version : **v3.9.10**
 
 The project is based on the packages:
 - Arcpy **v3.0.2**
-- pandas **v1.5.2**
+- Pandas **v1.5.2**
 
 Available in `requirements.txt`
 
