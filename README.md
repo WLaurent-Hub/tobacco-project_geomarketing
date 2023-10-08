@@ -36,17 +36,17 @@ The data are located in the directory data :
 
 ## Settings
 
-# Runtime
+### Runtime
 
 The project is based on the python version : **v3.9.10**
 
 Available in `runtime.txt`
 
-# Dependencies 
+### Dependencies 
 
 The project is based on the packages:
 - Arcpy **v3.0.2**
-- pandas **1.5.2**
+- pandas **v1.5.2**
 
 Available in `requirements.txt`
 
