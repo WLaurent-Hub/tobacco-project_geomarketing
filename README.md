@@ -12,7 +12,7 @@ Four main aspects of the methodology are automatic:
   - Distance calculation 
   - Gathering of all .xls data in a single Excel table
 
-Process source code is available in the module folder
+Process source code is available in the module folder.
 
 <pre>
 📦tobacco-project_geomarketing
@@ -68,7 +68,7 @@ For the script to work properly, two xls files are required: "implantation.xls" 
   
 1. enter your addresses in the "address" fields (in both excel files) as required.
 
-2. find the municipal contours in shapefile format and insert them in the "communes" directory
+2. find the municipal contours in shapefile format and insert them in the "communes" directory.
 (default : Island of France commune in `/data/comunes`)
 
 3. configure your username and password in **config.py**.
